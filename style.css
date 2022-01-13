@@ -1,0 +1,47 @@
+
+body {
+    background-color: grey;
+    padding:50px  200px;
+}
+p {
+    text-align: center;
+}
+header, nav, section, aside, footer, article div {
+    background-color: whitesmoke;
+    color: grey;
+    
+}
+header, nav,footer{
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+}
+article{
+    background-color: grey;
+    color:whitesmoke;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+article div{
+    width: 90%;
+    height: 50px;
+    margin: 10px auto;
+}
+section{
+    float: left;
+    width: 67%;
+    height: 300px;
+    
+}
+aside{
+    
+    width: 30%;
+    float: right;
+    height: 300px;
+}
+.main{
+    width: 100%;
+    height: 300px;
+    margin: 10px 0px;
+}
